@@ -1,0 +1,34 @@
+Node Name,Property Name,Display Order,Display Name,Data Type,Unique Id,Property Required,Property Mutable
+OwnerRelationships,sourceNode,10,Source,String,true,true,false
+OwnerRelationships,sourceId,20,Source Id,String,true,true,false
+OwnerRelationships,connectType,30,Type,String,true,true,false
+OwnerRelationships,destNode,40,Destination,String,true,true,false
+OwnerRelationships,destId,50,Destination Id,String,true,true,false
+OwnerRelationships,desc,60,Description,String,false,false,true,Pavan
+OwnerRelationships,label,70,Label,String,false,false,true
+OwnerRelationships,lastUpdatedBy,80,Last Updated By,String,false,true,false
+OwnerRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,false,true,false
+OwnerRelationships,createdBy,100,Created By,String,false,true,false
+OwnerRelationships,createdDateTime,110,Created DateTime,LocalDateTime,false,true,false
+TagRelationships,sourceNode,10,Source,String,true,true,false
+TagRelationships,sourceId,20,Source Id,String,true,true,false
+TagRelationships,connectType,30,Type,String,true,true,false
+TagRelationships,destNode,40,Destination,String,true,true,false
+TagRelationships,destId,50,Destination Id,String,true,true,false
+TagRelationships,desc,60,Description,String,false,false,true
+TagRelationships,label,70,Label,String,false,false,true
+TagRelationships,lastUpdatedBy,80,Last Updated By,String,false,true,false
+TagRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,false,true,false
+TagRelationships,createdBy,100,Created By,String,false,true,false
+TagRelationships,createdDateTime,110,Created DateTime,LocalDateTime,false,true,false
+GraphicalRelationships,sourceNode,10,Source,String,true,true,false
+GraphicalRelationships,sourceId,20,Source Id,String,true,true,false
+GraphicalRelationships,connectType,30,Type,String,true,true,false
+GraphicalRelationships,destNode,40,Destination,String,true,true,false
+GraphicalRelationships,destId,50,Destination Id,String,true,true,false
+GraphicalRelationships,desc,60,Description,String,false,false,true
+GraphicalRelationships,label,70,Label,String,false,false,true
+GraphicalRelationships,lastUpdatedBy,80,Last Updated By,String,false,true,false
+GraphicalRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,false,true,false
+GraphicalRelationships,createdBy,100,Created By,String,false,true,false
+GraphicalRelationships,createdDateTime,110,Created DateTime,LocalDateTime,false,true,false
