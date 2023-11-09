@@ -14,7 +14,7 @@ Please replace the Catalog Name in the CSV files with the catalog that you want 
 ## Relationships
 
 ### When to use the templates in this folder?
-These templates are to be used when creating after creating a new catalog in the Anansi tool and you want to start adding relationships to your entities.
+These templates are to be used after creating a new catalog in the Anansi tool and you want to start adding relationships to your entities.
 
 ### Introduction
 There are 3 types of relationships possible in the tool:
@@ -33,7 +33,8 @@ The Node Information table has a primary key setup on Node Name. Hence you canno
 
 #### In case you have only 1 catalog setup in your tool
 
-1. Replace "System" in RelationshipMetaInfo.csv file with the entity (i.e. you Node Name) for which you want to add Owner and Tag Relationships.
+1. Replace "System" in RelationshipMetaInfo.csv file with the entity (i.e. your Node Name) for which you want to add Owner and Tag Relationships.
+2. Replace "Metadata Catalog" with the new catalog name in RelationshipMetaInfo.csv file.
 
 #### In case you have more than 1 catalog setup in your tool
 
