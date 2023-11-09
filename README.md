@@ -29,20 +29,12 @@ There are 3 types of relationships possible in the tool:
     We can visually "graph" relationships between systems using this kind of relationship.  
 
 ### General Instructions
-The Node Information table has a primary key setup on Node Name. Hence you cannot have repeated Node Names.
 
-#### In case you have only 1 catalog setup in your tool
+1. If a user is adding more than one catalog, they can replace 'System' in the RelationshipMetaInfo.csv file with the entity (i.e., your Node Name) for which they want to add Owner and Tag Relationships.
 
-1. Replace "System" in RelationshipMetaInfo.csv file with the entity (i.e. your Node Name) for which you want to add Owner and Tag Relationships.
-2. Replace "Metadata Catalog" with the new catalog name in RelationshipMetaInfo.csv file.
+2. If a user is adding more than one catalog, they can replace 'Metadata Catalog' with the new catalog name in all relevant CSV files.
 
-#### In case you have more than 1 catalog setup in your tool
-
-1. Replace the following Node Names in the NodeInfo.csv and PropertyInfo.csv table with a new name of your choice. BUT, please make sure that they are suffixed by the word: "Relationships".  
-
-2. Replace the words: "Metadata Catalog" with your new catalog name in all the provided CSV files.  
-
-3. Replace "System" in RelationshipMetaInfo.csv file with the entity (i.e. you Node Name) for which you want to add Owner and Tag Relationships.
+Note: We can use the same Node Name in multiple catalogs.
 
 ### Templates Provided
 1. NodeInfo.csv -> To be imported into the Node Information Table.
