@@ -2,6 +2,15 @@
 
 Contains useful CSV templates for the Data Catalog.
 
+## Azure Import
+
+### When to use the templates in this folder?
+These templates are to be used when you use the Azure Import Wizard in Anansi.  
+These templates are used to set up the `AzureSystem` Table which will hold the output of the wizard.
+
+### General Instructions
+Please replace the Catalog Name in the CSV files with the catalog that you want to use.
+
 ## Relationships
 
 ### When to use the templates in this folder?

@@ -1,0 +1,2 @@
+Node Name,Description,Display Name,Catalog Name,Node Type,Is Active
+AzureSystem,AZ resources in JSON format,Azure Systems,Metadata Catalog,System Graph,true
