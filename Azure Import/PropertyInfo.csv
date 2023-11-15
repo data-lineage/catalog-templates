@@ -1,10 +1,10 @@
 Node Name,Property Name,Display Order,Display Name,Data Type,Unique Id,Property Required,Property Mutable
-AzureSystem,azureId,10,Azure Id,String,true,true,false
-AzureSystem,name,20,Name,String,false,true,false
-AzureSystem,desc,30,Description,String,false,true,false
-AzureSystem,resourceType,40,Type,String,false,true,false
-AzureSystem,resourceLocation,50,Location,String,false,true,false
-AzureSystem,lastUpdatedBy,60,Last Updated By,String,false,true,false
-AzureSystem,lastUpdatedDateTime,70,Last Updated DateTime,LocalDateTime,false,true,false
-AzureSystem,createdBy,80,Created By,String,false,true,false
-AzureSystem,createdDateTime,90,Created DateTime,LocalDateTime,false,true,false
+AzureSystem,azureId,10,Azure Id,String,TRUE,TRUE,FALSE
+AzureSystem,name,20,Name,String,FALSE,TRUE,FALSE
+AzureSystem,desc,30,Description,String,FALSE,TRUE,FALSE
+AzureSystem,resourceType,40,Type,String,FALSE,TRUE,FALSE
+AzureSystem,resourceLocation,50,Location,String,FALSE,TRUE,FALSE
+AzureSystem,lastUpdatedBy,60,Last Updated By,String,FALSE,TRUE,FALSE
+AzureSystem,lastUpdateDateTime,70,Last Updated Date Time,LocalDateTime,FALSE,TRUE,FALSE
+AzureSystem,createdBy,80,Created By,String,FALSE,TRUE,FALSE
+AzureSystem,createdDateTime,90,Created DateTime,LocalDateTime,FALSE,TRUE,FALSE
