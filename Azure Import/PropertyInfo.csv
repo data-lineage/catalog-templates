@@ -5,6 +5,6 @@ AzureSystem,desc,30,Description,String,false,true,false
 AzureSystem,resourceType,40,Type,String,false,true,false
 AzureSystem,resourceLocation,50,Location,String,false,true,false
 AzureSystem,lastUpdatedBy,60,Last Updated By,String,false,true,false
-AzureSystem,lastUpdateDateTime,70,Last Updated Date Time,LocalDateTime,false,true,false
+AzureSystem,lastUpdateDateTime,70,Last Updated DateTime,LocalDateTime,false,true,false
 AzureSystem,createdBy,80,Created By,String,false,true,false
 AzureSystem,createdDateTime,90,Created DateTime,LocalDateTime,false,true,false
