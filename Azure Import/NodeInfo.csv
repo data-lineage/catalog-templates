@@ -1,2 +1,2 @@
 Node Name,Catalog Name,Display Name,Description,Node Type,Is Active
-AzureSystem,Metadata Catalog,Azure Systems,Systems setup in Azure,System Graph,TRUE
+AzureSystem,Metadata Catalog,Azure Systems,Systems setup in Azure,System Graph,true
