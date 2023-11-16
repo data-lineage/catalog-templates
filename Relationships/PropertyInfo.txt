@@ -22,8 +22,8 @@ GraphicalRelationships,sourceId,20,Source Id,String,true,true,false
 GraphicalRelationships,connectType,30,Type,String,true,true,false
 GraphicalRelationships,destNode,40,Destination,String,true,true,false
 GraphicalRelationships,destId,50,Destination Id,String,true,true,false
-GraphicalRelationships,desc,60,Description,String,false,false,true
-GraphicalRelationships,label,70,Label,String,false,false,true
+GraphicalRelationships,label,60,Label,String,true,true,true
+GraphicalRelationships,desc,70,Description,String,false,false,true
 GraphicalRelationships,lastUpdatedBy,80,Last Updated By,String,false,true,false
 GraphicalRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,false,true,false
 GraphicalRelationships,createdBy,100,Created By,String,false,true,false
