@@ -1,4 +1,4 @@
-Node Name,Description,Display Name,Catalog Name,Node Type,Is Active
-OwnerRelationships,This is the table where System Id and Metadata Id to Owner Id relationships are stored.,Owner Relationships,Metadata Catalog,,true
-TagRelationships,This is the table which shows which tags are connected to which System and Metadata Ids.,Tag Relationships,Metadata Catalog,,true
-GraphicalRelationships,This table shows all the Graphical Relationships.,Graphical Relationships,Metadata Catalog,,true
+Node Name,Catalog Name,Display Name,Description,Node Type,Is Active
+OwnerRelationships,Metadata Catalog,Owner Relationships,This is the table where System Id and Metadata Id to Owner Id relationships are stored.,null,true
+TagRelationships,Metadata Catalog,Tag Relationships,This is the table which shows which tags are connected to which System and Metadata Ids.,null,true
+GraphicalRelationships,Metadata Catalog,Graphical Relationships,This table shows all the Graphical Relationships.,null,true
