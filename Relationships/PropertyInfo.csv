@@ -1,0 +1,30 @@
+Node Name,Property Name,Display Order,Display Name,Data Type,Property Type
+OwnerRelationships,sourceNode,10,Source,String,IS_IDENTITY
+OwnerRelationships,sourceId,20,Source Id,String,IS_IDENTITY
+OwnerRelationships,connectType,30,Type,String,IS_IDENTITY
+OwnerRelationships,destNode,40,Destination,String,IS_IDENTITY
+OwnerRelationships,destId,50,Destination Id,String,IS_IDENTITY
+OwnerRelationships,lastUpdatedBy,80,Last Updated By,String,IS_SYSTEM_GENERATED
+OwnerRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,IS_SYSTEM_GENERATED
+OwnerRelationships,createdBy,100,Created By,String,IS_SYSTEM_GENERATED
+OwnerRelationships,createdDateTime,110,Created DateTime,LocalDateTime,IS_SYSTEM_GENERATED
+TagRelationships,sourceNode,10,Source,String,IS_IDENTITY
+TagRelationships,sourceId,20,Source Id,String,IS_IDENTITY
+TagRelationships,connectType,30,Type,String,IS_IDENTITY
+TagRelationships,destNode,40,Destination,String,IS_IDENTITY
+TagRelationships,destId,50,Destination Id,String,IS_IDENTITY
+TagRelationships,lastUpdatedBy,80,Last Updated By,String,IS_SYSTEM_GENERATED
+TagRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,IS_SYSTEM_GENERATED
+TagRelationships,createdBy,100,Created By,String,IS_SYSTEM_GENERATED
+TagRelationships,createdDateTime,110,Created DateTime,LocalDateTime,IS_SYSTEM_GENERATED
+GraphicalRelationships,sourceNode,10,Source,String,IS_IDENTITY
+GraphicalRelationships,sourceId,20,Source Id,String,IS_IDENTITY
+GraphicalRelationships,connectType,30,Type,String,IS_IDENTITY
+GraphicalRelationships,destNode,40,Destination,String,IS_IDENTITY
+GraphicalRelationships,destId,50,Destination Id,String,IS_IDENTITY
+GraphicalRelationships,desc,60,Description,String,IS_OPTIONAL
+GraphicalRelationships,label,70,Label,String,IS_OPTIONAL
+GraphicalRelationships,lastUpdatedBy,80,Last Updated By,String,IS_SYSTEM_GENERATED
+GraphicalRelationships,lastUpdateDateTime,90,Last Updated DateTime,LocalDateTime,IS_SYSTEM_GENERATED
+GraphicalRelationships,createdBy,100,Created By,String,IS_SYSTEM_GENERATED
+GraphicalRelationships,createdDateTime,110,Created DateTime,LocalDateTime,IS_SYSTEM_GENERATED

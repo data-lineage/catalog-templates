@@ -44,4 +44,5 @@ There are 3 types of relationships possible in the tool:
 
 1. NodeInfo.csv -> To be imported into the Node Information Table.
 2. PropertyInfo.csv -> To be imported into the Property Information Table.
-3. RelationshipMetaInfo.csv -> To be imported into the Relationship Meta Info Table.
+3. RelationshipMetaInfo.csv -> To be imported into the Relationship Meta Info Table. 
+4. NodeGraphDetails.csv -> To be imported into the Node Graph details Table. 
