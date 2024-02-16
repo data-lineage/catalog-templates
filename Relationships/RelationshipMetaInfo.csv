@@ -1,0 +1,3 @@
+Catalog Name,Relationship Name,Description,Source Node,Destination Node,Relationship Type
+Metadata Catalog,IS_OWNED_BY,Defines the relationship between a System and a owner.,System,Owner,Owner
+Metadata Catalog,HAS_TAG,Defines the relationship between a System and a tag.,System,Tag,Tag
