@@ -1,2 +1,3 @@
 Catalog Name,Relationship Name,Description,Source Node,Destination Node,Relationship Type
 Metadata Catalog,BELONGS_TO,One system can belong to another system.,AzureSystem,AzureSystem,Graphical
+Metadata Catalog,CONNECTED_TO,One system is connected to another,AzureSystem,AzureSystem,Graphical
